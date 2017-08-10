@@ -1,0 +1,32 @@
+Courses related to Math:
+Probability Theory and Statistics (100/100, 1st)
+Method of Mathematical Physics (97/100, 1st) 
+Linear algebra (93/100)
+Risk Analysis (99/100, 1st)
+Differential & Calculus II (91/100)
+
+Courses related to Physics:
+Atomic Physics (99/100, 2nd)
+Electrodynamics (95/100, 1st)
+Quantum Mechanics (94/100)
+Materials (100/100, 1st)
+Theoretical Mechanics (97/100, 1st)
+
+Courses related to Electronics:
+Circulate & Analog Electronics (95/100, 1st)
+Digital & Electronics Technology (95/100, 2nd)
+Principle of Microcomputer (96/100, 1st)
+State Variable Methods 
+
+Courses related to Computer Engineering:
+Analysis of Algorithms 
+Computer Communications 
+Programming Fundamentals II 
+Embedded Systems
+Analysis of Algorithms Imaging System Analysis
+Computer Graphics
+Advanced Computer Graphics
+Data Base Management System
+Distributed Operating System Principle
+Advanced Data Structures
+Programming Language Principles 
